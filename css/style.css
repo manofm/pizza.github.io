@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&display=swap')
+#sor p {
+    background: gold;
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+}
+img {
+    width: 200px;
+    box-shadow: 3px 3px 7px  brown;
+    margin: 10px;
+}
+#Infó {
+    background: gold;
+    color: darkviolet;
+    font-family: 'pacifico', cursive;
+}
+#Béka {
+    background: gold;
+    color: darkviolet;
+    font-family: 'pacifico', cursive;
+}
+.content {
+    background: gold;
+    font-family: 'pacifico', cursive;
+	font-size:24px;
+	text-align: left;
+	line-height: normal;
+    font-weight: lighter;
+    margin: 10px 10px 10px 10px;
+    border: solid 1px  blue;
+    padding: 10px 10px 10px 10px;
+}
+.bold {
+    font-weight: bold;
+}
+.img-div {
+    background-color: deepskyblue;
+}
+#fej {
+    background: gold;
+    color: darkviolet;
+    font-family: 'pacifico', cursive;
+}
